@@ -2,6 +2,7 @@ package cn.icodelife.leetcode.array;
 
 /**
  * @author modestlee
+ * @problemrl  https://leetcode.com/problems/move-zeroes/
  * @url 问题讲解地址 https://mp.weixin.qq.com/s/LwWZv7NF72DJBwRHghIMvg
  * @date 2019/12/14
  */
